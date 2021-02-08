@@ -1,8 +1,8 @@
 # Trulle Mono
 
-The monospace font Trulle Mono is a heavily customized variant of Iosevka.
+Three variants of the monospace font Trulle Mono are heavily customized variants of Iosevka.
 
-It has three variants. Try different font sizes in order to distinguish the differences between them.
+While the font widths constitute the most noticeable difference of the variants, they do have other characteristics that can be distinguished by trying them at different fonts sizes.
 
 ![Trulle Mono 9](/Images/trulle-mono-9.png)
 
