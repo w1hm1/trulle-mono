@@ -1,0 +1,216 @@
+[buildPlans.trulle-mono-2]
+family = "Trulle Mono 2"
+spacing = "term"
+serifs = "sans"
+
+[buildPlans.trulle-mono-2.variants.design]
+turn-v = "straight"
+capital-b = "standard"
+capital-d = "standard"
+capital-g = "toothless-rounded-hooked"
+capital-i = "serifless"
+capital-j = "serifless"
+capital-k = "straight"
+capital-l = "standard"
+capital-m = "flat-bottom"
+capital-q = "crossing"
+capital-r = "straight"
+capital-y = "straight"
+capital-z = "standard"
+capital-w = "straight-asymmetric"
+a = "double-storey"
+b = "toothed"
+d = "toothed"
+e = "flat-crossbar"
+f = "flat-hook-crossbar-at-x-height"
+g = "double-storey"
+h = "straight"
+i = "hooky"
+j = "straight-line"
+k = "straight"
+l = "hooky"
+m = "normal"
+n = "straight"
+p = "eared"
+q = "straight"
+r = "compact"
+t = "cross"
+u = "toothless-rounded"
+v = "straight"
+w = "straight-asymmetric"
+x = "straight"
+y = "straight"
+z = "standard"
+eszet = "traditional"
+lambda = "straight"
+cyrl-capital-u = "straight"
+zero = "slashed"
+one = "nobase"
+two = "straight-neck"
+three = "twoarcs"
+four = "semi-open-non-crossing"
+six = "closed-contour"
+seven = "noserif"
+eight = "two-circles"
+nine = "closed-contour"
+tilde = "high"
+asterisk = "flip-penta-high"
+underscore = "above-baseline"
+paragraph-sign = "high"
+caret = "high"
+paren = "large-contour"
+brace = "straight"
+number-sign = "upright-open"
+ampersand = "et-toothed"
+at = "fourfold"
+dollar = "open"
+percent = "dots"
+bar = "natural-slope"
+lig-ltgteq = "slanted"
+ascii-single-quote = "raised-comma"
+ascii-grave = "raised-inverse-comma"
+
+[buildPlans.trulle-mono-2.variants.italic]
+turn-v = "straight"
+capital-b = "standard"
+capital-d = "standard"
+capital-g = "toothless-rounded-hookless"
+capital-i = "serifless"
+capital-j = "serifless"
+capital-k = "straight"
+capital-l = "standard"
+capital-m = "flat-bottom"
+capital-q = "crossing"
+capital-r = "straight"
+capital-y = "straight"
+capital-z = "standard"
+capital-w = "straight-asymmetric"
+a = "double-storey"
+b = "toothed"
+d = "toothed"
+e = "flat-crossbar"
+f = "flat-hook-crossbar-at-x-height"
+g = "double-storey"
+h = "straight"
+i = "serifless"
+j = "straight-line"
+k = "straight"
+l = "serifless"
+m = "normal"
+n = "straight"
+p = "eared"
+q = "straight"
+r = "compact"
+t = "cross"
+u = "toothless-rounded"
+v = "straight"
+w = "straight-asymmetric"
+x = "straight"
+y = "straight"
+z = "standard"
+eszet = "traditional"
+lambda = "straight"
+cyrl-capital-u = "straight"
+zero = "slashed"
+one = "nobase"
+two = "straight-neck"
+three = "twoarcs"
+four = "semi-open-non-crossing"
+six = "closed-contour"
+seven = "noserif"
+eight = "two-circles"
+nine = "closed-contour"
+tilde = "high"
+asterisk = "flip-penta-high"
+underscore = "above-baseline"
+paragraph-sign = "high"
+caret = "high"
+paren = "large-contour"
+brace = "straight"
+number-sign = "upright-open"
+ampersand = "et-toothed"
+at = "fourfold"
+dollar = "open"
+percent = "dots"
+bar = "natural-slope"
+lig-ltgteq = "slanted"
+ascii-single-quote = "raised-comma"
+ascii-grave = "raised-inverse-comma"
+
+[buildPlans.trulle-mono-2.variants.oblique]
+turn-v = "straight"
+capital-b = "standard"
+capital-d = "standard"
+capital-g = "toothless-rounded-hookless"
+capital-i = "serifless"
+capital-j = "serifless"
+capital-k = "straight"
+capital-l = "standard"
+capital-m = "flat-bottom"
+capital-q = "crossing"
+capital-r = "straight"
+capital-y = "straight"
+capital-z = "standard"
+a = "double-storey"
+b = "toothed"
+d = "toothed"
+e = "flat-crossbar"
+f = "flat-hook-crossbar-at-x-height"
+g = "double-storey"
+h = "straight"
+i = "hooky-bottom"
+
+  [buildPlans.trulle-mono-2.ligations]
+  inherits = "haskell"
+
+[buildPlans.trulle-mono-2.weights.extralight]
+shape = 200
+menu = 200
+css = 200
+
+[buildPlans.trulle-mono-2.weights.light]
+shape = 300
+menu = 300
+css = 300
+
+[buildPlans.trulle-mono-2.weights.regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.trulle-mono-2.weights.medium]
+shape = 500
+menu = 500
+css = 500
+
+[buildPlans.trulle-mono-2.weights.semibold]
+shape = 600
+menu = 600
+css = 600
+
+[buildPlans.trulle-mono-2.weights.bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.trulle-mono-2.weights.extrabold]
+shape = 800
+menu = 800
+css = 800
+
+[buildPlans.trulle-mono-2.weights.heavy]
+shape = 900
+menu = 900
+css = 900
+
+[buildPlans.trulle-mono-2.widths.normal]
+shape = 575
+menu = 5
+css = "normal"
+
+[buildPlans.trulle-mono-2.metric-override]
+leading = 1046
+
+  [buildPlans.trulle-mono-2.slopes]
+  upright = "normal"
+  italic = "italic"

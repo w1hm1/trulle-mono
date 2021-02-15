@@ -6,6 +6,4 @@ While the font widths might constitute the most noticeable difference between th
 
 ![Trulle Mono 9](/Images/trulle-mono-9.png)
 
-![Trulle Mono 74](/Images/trulle-mono-74.png)
-
 ![Trulle Mono 76](/Images/trulle-mono-76.png)
