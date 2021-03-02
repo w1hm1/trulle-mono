@@ -7,10 +7,10 @@ serifs = "sans"
 turn-v = "straight"
 capital-b = "standard"
 capital-d = "standard"
-capital-g = "toothless-rounded-hooked"
+capital-g = "toothless-rounded-serifless-hooked"
 capital-i = "serifless"
 capital-j = "serifless"
-capital-k = "straight"
+capital-k = "symmetric-touching"
 capital-l = "standard"
 capital-m = "flat-bottom"
 capital-q = "crossing"
@@ -26,8 +26,8 @@ f = "flat-hook-crossbar-at-x-height"
 g = "single-storey"
 h = "straight"
 i = "hooky"
-j = "straight-line"
-k = "straight"
+j = "hooky"
+k = "symmetric-touching"
 l = "hooky"
 m = "normal"
 n = "straight"
@@ -42,15 +42,16 @@ x = "straight"
 y = "straight"
 z = "standard"
 eszet = "traditional"
-lambda = "straight"
+lower-lambda = "straight"
 cyrl-capital-u = "straight"
 zero = "slashed"
 one = "nobase"
 two = "straight-neck"
 three = "twoarcs"
 four = "semi-open-non-crossing"
+five = "vertical-upper-left-bar"
 six = "closed-contour"
-seven = "noserif"
+seven = "straight-serifless"
 eight = "two-circles"
 nine = "closed-contour"
 tilde = "high"
@@ -69,15 +70,17 @@ bar = "natural-slope"
 lig-ltgteq = "slanted"
 ascii-single-quote = "raised-comma"
 ascii-grave = "raised-inverse-comma"
+lower-iota = "zshaped"
+cyrl-ka = "symmetric-touching"
 
 [buildPlans.trulle-mono-74.variants.italic]
 turn-v = "straight"
 capital-b = "standard"
 capital-d = "standard"
-capital-g = "toothless-rounded-hookless"
+capital-g = "toothless-rounded-serifless-hooked"
 capital-i = "serifless"
 capital-j = "serifless"
-capital-k = "straight"
+capital-k = "symmetric-touching"
 capital-l = "standard"
 capital-m = "flat-bottom"
 capital-q = "crossing"
@@ -90,11 +93,11 @@ b = "toothed"
 d = "toothed"
 e = "flat-crossbar"
 f = "flat-hook-crossbar-at-x-height"
-g = "single-storey-flat-hook"
+g = "single-storey"
 h = "straight"
 i = "serifless"
 j = "straight-line"
-k = "straight"
+k = "symmetric-touching"
 l = "serifless"
 m = "normal"
 n = "straight"
@@ -109,15 +112,16 @@ x = "straight"
 y = "straight"
 z = "standard"
 eszet = "traditional"
-lambda = "straight"
+lower-lambda = "straight"
 cyrl-capital-u = "straight"
 zero = "slashed"
 one = "nobase"
 two = "straight-neck"
 three = "twoarcs"
 four = "semi-open-non-crossing"
+five = "oblique-upper-left-bar"
 six = "closed-contour"
-seven = "noserif"
+seven = "straight-serifless"
 eight = "two-circles"
 nine = "closed-contour"
 tilde = "high"
@@ -136,6 +140,8 @@ bar = "natural-slope"
 lig-ltgteq = "slanted"
 ascii-single-quote = "raised-comma"
 ascii-grave = "raised-inverse-comma"
+lower-iota = "zshaped"
+cyrl-ka = "symmetric-touching"
 
 [buildPlans.trulle-mono-74.variants.oblique]
 turn-v = "straight"
@@ -164,7 +170,7 @@ i = "hooky-bottom"
   inherits = "haskell"
 
 [buildPlans.trulle-mono-74.weights.regular]
-shape = 350
+shape = 180
 menu = 400
 css = 400
 
@@ -174,7 +180,7 @@ menu = 700
 css = 700
 
 [buildPlans.trulle-mono-74.widths.normal]
-shape = 570
+shape = 600
 menu = 5
 css = "normal"
 
@@ -185,7 +191,7 @@ leading = 1046
 sb = 1.163 
 
 [buildPlans.trulle-mono-74.metric-override.adds]
-sb = 11
+sb = 18
 
   [buildPlans.trulle-mono-74.slopes]
   upright = "normal"
