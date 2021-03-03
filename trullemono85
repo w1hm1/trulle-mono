@@ -170,7 +170,7 @@ i = "hooky-bottom"
   inherits = "haskell"
 
 [buildPlans.trulle-mono-85.weights.regular]
-shape = 250
+shape = 280
 menu = 400
 css = 400
 
@@ -180,7 +180,7 @@ menu = 700
 css = 700
 
 [buildPlans.trulle-mono-85.widths.normal]
-shape = 560
+shape = 575
 menu = 5
 css = "normal"
 

@@ -28,7 +28,7 @@ h = "straight"
 i = "hooky"
 j = "hooky"
 k = "symmetric-touching"
-l = "hooky"
+l = "serifless"
 m = "normal"
 n = "straight"
 p = "eared"
@@ -62,7 +62,7 @@ caret = "high"
 paren = "large-contour"
 brace = "straight"
 number-sign = "upright-open"
-ampersand = "et-toothed"
+ampersand = "et-toothless-rounded"
 at = "fourfold"
 dollar = "open"
 percent = "dots"
@@ -132,7 +132,7 @@ caret = "high"
 paren = "large-contour"
 brace = "straight"
 number-sign = "upright-open"
-ampersand = "et-toothed"
+ampersand = "et-toothless-rounded"
 at = "fourfold"
 dollar = "open"
 percent = "dots"
@@ -180,7 +180,7 @@ menu = 700
 css = 700
 
 [buildPlans.trulle-mono-36.widths.normal]
-shape = 550
+shape = 530
 menu = 5
 css = "normal"
 
@@ -191,7 +191,7 @@ leading = 1046
 sb = 0.55
 
 [buildPlans.trulle-mono-36.metric-override.adds]
-sb = 80
+sb = 73
 
   [buildPlans.trulle-mono-36.slopes]
   upright = "normal"
