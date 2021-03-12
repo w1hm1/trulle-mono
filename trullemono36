@@ -191,7 +191,7 @@ leading = 1046
 sb = 0.55
 
 [buildPlans.trulle-mono-36.metric-override.adds]
-sb = 73
+sb = 55
 
   [buildPlans.trulle-mono-36.slopes]
   upright = "normal"

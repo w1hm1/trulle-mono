@@ -188,7 +188,7 @@ css = "normal"
 leading = 1046
 
 [buildPlans.trulle-mono-85.metric-override.multiplies]
-sb = 1.163 
+sb = 0.872 
 
 [buildPlans.trulle-mono-85.metric-override.adds]
 sb = 28
