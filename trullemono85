@@ -12,7 +12,7 @@ capital-i = "serifless"
 capital-j = "serifless"
 capital-k = "symmetric-touching"
 capital-l = "standard"
-capital-m = "flat-bottom"
+capital-m = "hanging"
 capital-q = "crossing"
 capital-r = "straight"
 capital-y = "straight"
@@ -82,7 +82,7 @@ capital-i = "serifless"
 capital-j = "serifless"
 capital-k = "symmetric-touching"
 capital-l = "standard"
-capital-m = "flat-bottom"
+capital-m = "hanging"
 capital-q = "crossing"
 capital-r = "straight"
 capital-y = "straight"
@@ -152,7 +152,7 @@ capital-i = "serifless"
 capital-j = "serifless"
 capital-k = "straight"
 capital-l = "standard"
-capital-m = "flat-bottom"
+capital-m = "hanging"
 capital-q = "crossing"
 capital-r = "straight"
 capital-y = "straight"
@@ -170,7 +170,7 @@ i = "hooky-bottom"
   inherits = "haskell"
 
 [buildPlans.trulle-mono-85.weights.regular]
-shape = 250
+shape = 350
 menu = 400
 css = 400
 
