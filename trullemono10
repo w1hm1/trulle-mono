@@ -170,22 +170,22 @@ i = "hooky-bottom"
   inherits = "haskell"
 
 [buildPlans.trulle-mono-10.weights.regular]
-shape = 400
+shape = 350
 menu = 400
 css = 400
 
 [buildPlans.trulle-mono-10.weights.bold]
-shape = 550
+shape = 520
 menu = 700
 css = 700
 
 [buildPlans.trulle-mono-10.widths.normal]
-shape = 450
+shape = 485
 menu = 5
 css = "normal"
 
 [buildPlans.trulle-mono-10.metric-override]
-leading = 1199
+leading = 1123
 
 [buildPlans.trulle-mono-10.metric-override.multiplies]
 sb = 1.128
