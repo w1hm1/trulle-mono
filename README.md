@@ -4,4 +4,4 @@ The monospace font **Trulle Mono** is a heavily customised derivates of the mono
 
 You might need to adjust the line height of your terminal manually if certain umlauts and accented characters like Å, É, À etc. don't show properly in your display.
 
-<!-- ![Trulle Mono 9](/Images/trulle-mono-9.png) -->
+![Trulle Mono](/Images/trulle-mono.png)
