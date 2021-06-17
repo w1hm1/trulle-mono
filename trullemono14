@@ -160,12 +160,12 @@ long-s = "flat-hook"
   inherits = "haskell"
 
 [buildPlans.trulle-mono-14.weights.regular]
-shape = 300
+shape = 250
 menu = 400
 css = 400
 
 [buildPlans.trulle-mono-14.weights.bold]
-shape = 470
+shape = 400
 menu = 700
 css = 700
 
