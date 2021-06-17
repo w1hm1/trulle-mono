@@ -170,7 +170,7 @@ menu = 700
 css = 700
 
 [buildPlans.trulle-mono-14.widths.normal]
-shape = 450
+shape = 650
 menu = 5
 css = "normal"
 
@@ -178,10 +178,10 @@ css = "normal"
 leading = 1046
 
 [buildPlans.trulle-mono-14.metric-override.multiplies]
-sb = 0.7
+sb = 0.5
 
 [buildPlans.trulle-mono-14.metric-override.adds]
-sb = 19
+sb = 39
 
   [buildPlans.trulle-mono-14.slopes]
   upright = "normal"
