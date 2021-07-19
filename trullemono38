@@ -1,9 +1,9 @@
-[buildPlans.trulle-mono-13]
-family = "Trulle Mono 13"
+[buildPlans.trulle-mono-38]
+family = "Trulle Mono 38"
 spacing = "term"
 serifs = "sans"
 
-[buildPlans.trulle-mono-13.variants.design]
+[buildPlans.trulle-mono-38.variants.design]
 turn-v = "straight"
 capital-b = "standard-serifless"
 capital-d = "more-rounded-serifless"
@@ -81,7 +81,7 @@ cyrl-ya = "straight"
 cyrl-yery = "corner"
 long-s = "flat-hook"
 
-[buildPlans.trulle-mono-13.variants.italic]
+[buildPlans.trulle-mono-38.variants.italic]
 turn-v = "straight"
 capital-b = "standard-serifless"
 capital-d = "more-rounded-serifless"
@@ -160,33 +160,33 @@ cyrl-yery = "corner"
 long-s = "flat-hook"
 
 
-  [buildPlans.trulle-mono-13.ligations]
+  [buildPlans.trulle-mono-38.ligations]
   inherits = "haskell"
 
-[buildPlans.trulle-mono-13.weights.regular]
+[buildPlans.trulle-mono-38.weights.regular]
 shape = 300
 menu = 400
 css = 400
 
-[buildPlans.trulle-mono-13.weights.bold]
+[buildPlans.trulle-mono-38.weights.bold]
 shape = 450
 menu = 700
 css = 700
 
-[buildPlans.trulle-mono-13.widths.normal]
-shape = 470
+[buildPlans.trulle-mono-38.widths.normal]
+shape = 450
 menu = 5
 css = "normal"
 
-[buildPlans.trulle-mono-13.metric-override]
+[buildPlans.trulle-mono-38.metric-override]
 leading = 1046
 
-[buildPlans.trulle-mono-13.metric-override.multiplies]
-sb = 0.7
+[buildPlans.trulle-mono-38.metric-override.multiplies]
+sb = 1.1
 
-[buildPlans.trulle-mono-13.metric-override.adds]
-sb = 12
+[buildPlans.trulle-mono-38.metric-override.adds]
+sb = 27
 
-  [buildPlans.trulle-mono-13.slopes]
+  [buildPlans.trulle-mono-38.slopes]
   upright = "normal"
   italic = "italic"
