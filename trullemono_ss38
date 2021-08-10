@@ -186,7 +186,7 @@ leading = 1046
 sb = 1.4
 
 [buildPlans.trulle-mono-ss38.metric-override.adds]
-sb = 37
+sb = 7
 
 [buildPlans.trulle-mono-ss38.slopes.upright]
 angle = 0
