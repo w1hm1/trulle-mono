@@ -183,10 +183,10 @@ css = "normal"
 leading = 1046
 
 [buildPlans.trulle-mono-ss38.metric-override.multiplies]
-sb = 1.1
+sb = 1.4
 
 [buildPlans.trulle-mono-ss38.metric-override.adds]
-sb = 27
+sb = 37
 
 [buildPlans.trulle-mono-ss38.slopes.upright]
 angle = 0
