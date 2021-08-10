@@ -175,7 +175,7 @@ menu = 700
 css = 700
 
 [buildPlans.trulle-mono-ss38.widths.normal]
-shape = 450
+shape = 480
 menu = 5
 css = "normal"
 
