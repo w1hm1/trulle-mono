@@ -161,7 +161,7 @@ long-s = "flat-hook"
 
 
   [buildPlans.trulle-mono-14.ligations]
-  inherits = "haskell"
+  inherits = "php"
 
 [buildPlans.trulle-mono-14.weights.regular]
 shape = 250

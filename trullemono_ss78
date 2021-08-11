@@ -161,7 +161,7 @@ cyrl-yery = "corner"
 long-s = "flat-hook"
 
   [buildPlans.trulle-mono-ss78.ligations]
-  inherits = "haskell"
+  inherits = "php"
 
 [buildPlans.trulle-mono-ss78.weights.regular]
 shape = 300
