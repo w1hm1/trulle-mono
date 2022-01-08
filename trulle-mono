@@ -101,7 +101,7 @@ b = "toothed"
 d = "tailed-serifless"
 e = "flat-crossbar"
 f = "flat-hook-tailed-crossbar-at-x-height"
-g = "double-storey-open"
+g = "single-storey-serifless"
 h = "tailed"
 i = "serifless"
 j = "straight-line"
@@ -161,10 +161,10 @@ long-s = "flat-hook"
 
 
   [buildPlans.trulle-mono.ligations]
-  inherits = "php"
+  inherits = "javascript"
 
 [buildPlans.trulle-mono.weights.regular]
-shape = 300
+shape = 275
 menu = 400
 css = 400
 
