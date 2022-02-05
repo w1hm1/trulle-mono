@@ -186,7 +186,7 @@ css = "normal"
 
 [buildPlans.trulle-mono-ultra-narrow-thin.metric-override]
 leading = 1088
-sb = "default_sb * 0.500 + 70"
+sb = "default_sb * 0.500 + 80"
 
 [buildPlans.trulle-mono-ultra-narrow-thin.slopes.upright]
 angle = 0
