@@ -167,7 +167,7 @@ long-s = "flat-hook"
 
 
   [buildPlans.trulle-mono-ultra-narrow-thin.ligations]
-  inherits = "javascript"
+  inherits = "clike"
 
 [buildPlans.trulle-mono-ultra-narrow-thin.weights.regular]
 shape = 190
@@ -175,7 +175,7 @@ menu = 400
 css = 400
 
 [buildPlans.trulle-mono-ultra-narrow-thin.weights.bold]
-shape = 400
+shape = 300
 menu = 700
 css = 700
 
