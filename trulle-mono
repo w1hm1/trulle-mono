@@ -167,7 +167,7 @@ long-s = "flat-hook"
 
 
   [buildPlans.trulle-mono.ligations]
-  inherits = "clike"
+  inherits = "javascript"
 
 [buildPlans.trulle-mono.weights.regular]
 shape = 275

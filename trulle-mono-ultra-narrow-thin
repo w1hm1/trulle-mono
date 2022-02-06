@@ -167,7 +167,7 @@ long-s = "flat-hook"
 
 
   [buildPlans.trulle-mono-ultra-narrow-thin.ligations]
-  inherits = "clike"
+  inherits = "javascript"
 
 [buildPlans.trulle-mono-ultra-narrow-thin.weights.regular]
 shape = 190
@@ -175,7 +175,7 @@ menu = 400
 css = 400
 
 [buildPlans.trulle-mono-ultra-narrow-thin.weights.bold]
-shape = 300
+shape = 400
 menu = 700
 css = 700
 
@@ -186,7 +186,7 @@ css = "normal"
 
 [buildPlans.trulle-mono-ultra-narrow-thin.metric-override]
 leading = 1088
-sb = "default_sb * 0.500 + 80"
+sb = "default_sb * 0.500 + 70"
 
 [buildPlans.trulle-mono-ultra-narrow-thin.slopes.upright]
 angle = 0
