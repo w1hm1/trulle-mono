@@ -2,6 +2,7 @@
 family = "Trulle Mono Ultra Narrow Thin"
 spacing = "term"
 serifs = "sans"
+export-glyph-names = true
 
 [buildPlans.trulle-mono-ultra-narrow-thin.variants.design]
 turn-v = "straight"
@@ -69,6 +70,7 @@ percent = "dots"
 cent = "open"
 bar = "force-upright"
 lig-ltgteq = "slanted"
+lig-neq = "vertical-dotted"
 ascii-single-quote = "raised-comma"
 ascii-grave = "raised-inverse-comma"
 lower-alpha = "crossing"
@@ -150,6 +152,7 @@ percent = "dots"
 cent = "open"
 bar = "force-upright"
 lig-ltgteq = "slanted"
+lig-neq = "vertical-dotted"
 ascii-single-quote = "raised-comma"
 ascii-grave = "raised-inverse-comma"
 lower-alpha = "crossing"

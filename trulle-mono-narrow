@@ -2,6 +2,7 @@
 family = "Trulle Mono Narrow"
 spacing = "term"
 serifs = "sans"
+export-glyph-names = true
 
 [buildPlans.trulle-mono-narrow.variants.design]
 turn-v = "straight"
@@ -69,6 +70,7 @@ percent = "dots"
 cent = "open"
 bar = "force-upright"
 lig-ltgteq = "slanted"
+lig-neq = "vertical-dotted"
 ascii-single-quote = "raised-comma"
 ascii-grave = "raised-inverse-comma"
 lower-alpha = "crossing"
@@ -150,6 +152,7 @@ percent = "dots"
 cent = "open"
 bar = "force-upright"
 lig-ltgteq = "slanted"
+lig-neq = "vertical-dotted"
 ascii-single-quote = "raised-comma"
 ascii-grave = "raised-inverse-comma"
 lower-alpha = "crossing"
@@ -170,7 +173,7 @@ long-s = "flat-hook"
   inherits = "javascript"
 
 [buildPlans.trulle-mono-narrow.weights.regular]
-shape = 275
+shape = 240
 menu = 400
 css = 400
 
