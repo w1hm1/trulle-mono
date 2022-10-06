@@ -26,7 +26,7 @@ e = "flat-crossbar"
 f = "flat-hook-crossbar-at-x-height"
 g = "single-storey-serifless"
 h = "straight"
-i = "hooky"
+i = "serifed-asymmetric"
 j = "hooky"
 k = "straight-serifless"
 l = "serifed-asymmetric"
@@ -178,7 +178,7 @@ menu = 400
 css = 400
 
 [buildPlans.trulle-mono-thin.weights.bold]
-shape = 400
+shape = 600
 menu = 700
 css = 700
 
