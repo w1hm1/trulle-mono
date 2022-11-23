@@ -188,7 +188,7 @@ menu = 5
 css = "normal"
 
 [buildPlans.trulle-mono-bossy.metric-override]
-leading = 1088
+leading = 1150
 sb = "default_sb * 0.500 + 40"
 
 [buildPlans.trulle-mono-bossy.slopes.upright]
@@ -198,7 +198,7 @@ menu = "upright"
 css = "normal"
 
 [buildPlans.trulle-mono-bossy.slopes.italic]
-angle = 3.8
+angle = 4.5
 shape = "italic"
 menu = "italic"
 css = "italic"
