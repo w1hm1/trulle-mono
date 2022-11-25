@@ -198,7 +198,7 @@ menu = "upright"
 css = "normal"
 
 [buildPlans.trulle-mono-snakey.slopes.italic]
-angle = 4.5
+angle = 4.7
 shape = "italic"
 menu = "italic"
 css = "italic"
