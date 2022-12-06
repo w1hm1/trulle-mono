@@ -189,7 +189,7 @@ css = "normal"
 
 [buildPlans.trulle-mono-snakey.metric-override]
 leading = 1150
-sb = "default_sb * 0.500 + 30"
+sb = "default_sb * 0.500 + 40"
 
 [buildPlans.trulle-mono-snakey.slopes.upright]
 angle = 0
