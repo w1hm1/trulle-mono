@@ -183,13 +183,13 @@ menu = 700
 css = 700
 
 [buildPlans.trulle-mono-snakey.widths.normal]
-shape = 520
+shape = 490
 menu = 5
 css = "normal"
 
 [buildPlans.trulle-mono-snakey.metric-override]
 leading = 1150
-sb = "default_sb * 0.500 + 40"
+sb = "default_sb * 0.400 + 55"
 
 [buildPlans.trulle-mono-snakey.slopes.upright]
 angle = 0
