@@ -173,14 +173,24 @@ long-s = "flat-hook"
   inherits = "javascript"
 
 [buildPlans.trulle-mono-snakey.weights.regular]
-shape = 500
+shape = 600
 menu = 400
 css = 400
 
+# [buildPlans.trulle-mono-snakey.weights.regular]
+# shape = 500
+# menu = 400
+# css = 400
+
 [buildPlans.trulle-mono-snakey.weights.bold]
-shape = 750
+shape = 850
 menu = 700
 css = 700
+
+# [buildPlans.trulle-mono-snakey.weights.bold]
+# shape = 750
+# menu = 700
+# css = 700
 
 [buildPlans.trulle-mono-snakey.widths.normal]
 shape = 490
@@ -189,7 +199,11 @@ css = "normal"
 
 [buildPlans.trulle-mono-snakey.metric-override]
 leading = 1150
-sb = "default_sb * 0.400 + 55"
+sb = "default_sb * 0.350 + 48"
+
+# [buildPlans.trulle-mono-snakey.metric-override]
+# leading = 1150
+# sb = "default_sb * 0.350 + 55"
 
 [buildPlans.trulle-mono-snakey.slopes.upright]
 angle = 0
