@@ -173,17 +173,18 @@ long-s = "flat-hook"
   inherits = "javascript"
 
 [buildPlans.trulle-mono-snakey.weights.regular]
-shape = 600
+shape = 300
 menu = 400
 css = 400
 
+# A completely different approach with regards to increased readability.
 # [buildPlans.trulle-mono-snakey.weights.regular]
-# shape = 500
+# shape = 600
 # menu = 400
 # css = 400
 
 [buildPlans.trulle-mono-snakey.weights.bold]
-shape = 850
+shape = 550
 menu = 700
 css = 700
 
