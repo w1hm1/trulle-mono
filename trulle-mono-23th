@@ -15,7 +15,7 @@ capital-l = "serifless"
 capital-m = "slanted-sides-hanging"
 capital-q = "straight"
 capital-r = "straight"
-capital-w = "straight-vertical-sides"
+capital-w = "straight-asymmetric"
 capital-y = "straight-serifless"
 capital-z = "straight-serifless"
 a = "double-storey-serifless"
@@ -25,10 +25,10 @@ e = "flat-crossbar"
 f = "flat-hook-crossbar-at-x-height"
 g = "single-storey-earless-rounded-flat-hook"
 h = "straight"
-i = "serifed-flat-tailed"
-j = "serifed"
+i = "serifed-asymmetric"
+j = "flat-hook-serifed"
 k = "straight-serifless"
-l = "serifed-flat-tailed"
+l = "serifed-asymmetric"
 m = "earless-rounded-double-arch"
 n = "earless-rounded-straight"
 p = "eared"
@@ -171,23 +171,23 @@ lig-neq = "vertical-dotted"
   inherits = "javascript"
 
 [buildPlans.trulle-mono-23th.weights.regular]
-shape = 500
+shape = 430
 menu = 400
 css = 400
 
 [buildPlans.trulle-mono-23th.weights.bold]
-shape = 750
+shape = 700
 menu = 700
 css = 700
 
 [buildPlans.trulle-mono-23th.widths.normal]
-shape = 666
+shape = 455
 menu = 5
 css = "normal"
 
 [buildPlans.trulle-mono-23th.metric-override]
 leading = 1150
-sb = "default_sb * 0.975 + 30"
+sb = "default_sb * 0.995 + 30"
 
 [buildPlans.trulle-mono-23th.slopes.upright]
 angle = 0
