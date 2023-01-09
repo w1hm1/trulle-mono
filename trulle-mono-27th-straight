@@ -23,7 +23,7 @@ b = "toothed"
 d = "toothed-serifless"
 e = "flat-crossbar"
 f = "flat-hook-crossbar-at-x-height"
-g = "double-storey"
+g = "single-storey-serifless"
 h = "straight"
 i = "serifed-asymmetric"
 j = "serifed"
@@ -181,13 +181,13 @@ menu = 700
 css = 700
 
 [buildPlans.trulle-mono-27th-straight.widths.normal]
-shape = 600
+shape = 550
 menu = 5
 css = "normal"
 
 [buildPlans.trulle-mono-27th-straight.metric-override]
 leading = 1150
-sb = "default_sb * 1.075 + 22"
+sb = "default_sb * 0.200 + 97"
 
 [buildPlans.trulle-mono-27th-straight.slopes.upright]
 angle = 0

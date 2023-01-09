@@ -23,7 +23,7 @@ b = "toothed"
 d = "toothed-serifless"
 e = "flat-crossbar"
 f = "flat-hook-crossbar-at-x-height"
-g = "double-storey"
+g = "single-storey-serifless"
 h = "straight"
 i = "serifed-asymmetric"
 j = "serifed"
@@ -171,12 +171,12 @@ lig-neq = "vertical-dotted"
   inherits = "javascript"
 
 [buildPlans.trulle-mono-slimey.weights.regular]
-shape = 200
+shape = 250
 menu = 400
 css = 400
 
 [buildPlans.trulle-mono-slimey.weights.bold]
-shape = 350
+shape = 375
 menu = 700
 css = 700
 
