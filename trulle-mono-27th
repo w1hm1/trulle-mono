@@ -1,6 +1,6 @@
 [buildPlans.trulle-mono-27th]
 family = "Trulle Mono 27th"
-spacing = "term"
+spacing = "normal"
 serifs = "sans"
 export-glyph-names = true
 

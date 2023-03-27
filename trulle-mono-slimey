@@ -1,6 +1,6 @@
 [buildPlans.trulle-mono-slimey]
 family = "Trulle Mono Slimey"
-spacing = "term"
+spacing = "normal"
 serifs = "sans"
 export-glyph-names = true
 

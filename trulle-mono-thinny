@@ -1,6 +1,6 @@
 [buildPlans.trulle-mono-thinny]
 family = "Trulle Mono Thinny"
-spacing = "term"
+spacing = "normal"
 serifs = "sans"
 export-glyph-names = true
 

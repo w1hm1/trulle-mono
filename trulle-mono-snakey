@@ -1,6 +1,6 @@
 [buildPlans.trulle-mono-snakey]
 family = "Trulle Mono Snakey"
-spacing = "term"
+spacing = "normal"
 serifs = "sans"
 export-glyph-names = true
 
