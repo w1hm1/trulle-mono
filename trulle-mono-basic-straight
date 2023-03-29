@@ -170,7 +170,7 @@ lig-neq = "vertical-dotted"
   inherits = "javascript"
 
 [buildPlans.trulle-mono-basic-straight.weights.regular]
-shape = 500
+shape = 400
 menu = 400
 css = 400
 
@@ -180,7 +180,7 @@ menu = 700
 css = 700
 
 [buildPlans.trulle-mono-basic-straight.widths.normal]
-shape = 560
+shape = 520
 menu = 5
 css = "normal"
 
