@@ -42,7 +42,7 @@ h = "straight-serifless"
 i = "hooky"
 j = "hooky"
 k = "symmetric-touching-serifless"
-l = "hooky"
+l = "hooky-bottom"
 m = "earless-rounded-double-arch-short-leg-serifless"
 n = "earless-rounded-straight-serifless"
 p = "eared-serifless"
@@ -260,16 +260,14 @@ shape = 400
 menu = 700
 css = 700
 
-
 [buildPlans.trulle-mono.widths.normal]
-shape = 500
+shape = 445
 menu = 5
 css = "normal"
 
 [buildPlans.trulle-mono.metric-override]
 leading = 1150
 sb = "default_sb * 0.750 + 40"
-
 
 [buildPlans.trulle-mono.slopes.upright]
 angle = 0
