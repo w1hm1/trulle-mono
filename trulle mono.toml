@@ -27,7 +27,7 @@ capital-s = "serifless"
 capital-t = "serifless"
 capital-u = "toothless-rounded-serifless"
 capital-v = "straight-serifless"
-capital-w = "straight-asymmetric-serifless"
+capital-w = "straight-vertical-sides-serifless"
 capital-x = "straight-serifless"
 capital-y = "straight-serifless"
 capital-z = "straight-serifless"
@@ -43,8 +43,8 @@ i = "hooky"
 j = "hooky"
 k = "symmetric-touching-serifless"
 l = "hooky"
-m = "serifless"
-n = "straight-serifless"
+m = "earless-rounded-double-arch-short-leg-serifless"
+n = "earless-rounded-straight-serifless"
 p = "eared-serifless"
 q = "straight-serifless"
 r = "hookless-serifless"
@@ -52,7 +52,7 @@ s = "serifless"
 t = "hookless"
 u = "toothless-rounded-serifless"
 v = "straight-serifless"
-w = "straight-asymmetric-serifless"
+w = "straight-vertical-sides-serifless"
 x = "straight-serifless"
 y = "straight-serifless"
 z = "straight-serifless"
@@ -147,7 +147,7 @@ capital-s = "serifless"
 capital-t = "serifless"
 capital-u = "toothless-rounded-serifless"
 capital-v = "straight-serifless"
-capital-w = "straight-asymmetric-serifless"
+capital-w = "straight-serifless"
 capital-x = "straight-serifless"
 capital-y = "straight-serifless"
 capital-z = "straight-serifless"
@@ -163,8 +163,8 @@ i = "serifless"
 j = "straight-line"
 k = "symmetric-touching-serifless"
 l = "serifless"
-m = "serifless"
-n = "straight-serifless"
+m = "earless-rounded-double-arch-short-leg-serifless"
+n = "earless-rounded-straight-serifless"
 p = "eared-serifless"
 q = "straight-serifless"
 r = "hookless-serifless"
@@ -172,7 +172,7 @@ s = "serifless"
 t = "hookless"
 u = "toothless-rounded-serifless"
 v = "straight-serifless"
-w = "straight-asymmetric-serifless"
+w = "straight-serifless"
 x = "straight-serifless"
 y = "straight-serifless"
 z = "straight-serifless"
@@ -256,9 +256,10 @@ menu = 400
 css = 400
 
 [buildPlans.trulle-mono.weights.bold]
-shape = 750
+shape = 400
 menu = 700
 css = 700
+
 
 [buildPlans.trulle-mono.widths.normal]
 shape = 500
@@ -267,7 +268,8 @@ css = "normal"
 
 [buildPlans.trulle-mono.metric-override]
 leading = 1150
-sb = "default_sb * 0.500 + 40"
+sb = "default_sb * 0.750 + 40"
+
 
 [buildPlans.trulle-mono.slopes.upright]
 angle = 0
