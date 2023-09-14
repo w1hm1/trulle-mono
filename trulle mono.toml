@@ -31,7 +31,7 @@ capital-w = "straight-vertical-sides-serifless"
 capital-x = "straight-serifless"
 capital-y = "straight-serifless"
 capital-z = "straight-serifless"
-a = "single-storey-serifless"
+a = "double-storey-serifless"
 b = "toothed-serifless"
 c = "serifless"
 d = "toothed-serifless"
@@ -256,7 +256,7 @@ menu = 400
 css = 400
 
 [buildPlans.trulle-mono.weights.bold]
-shape = 850
+shape = 600
 menu = 700
 css = 700
 
