@@ -251,7 +251,7 @@ lig-single-arrow-bar = "without-notch"
   inherits = "dlig"
 
 [buildPlans.trulle-mono-extended.weights.regular]
-shape = 350
+shape = 300
 menu = 400
 css = 400
 
