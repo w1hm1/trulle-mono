@@ -276,7 +276,7 @@ menu = "upright"
 css = "normal"
 
 [buildPlans.trulle-mono-extended.slopes.italic]
-angle = 5.7
+angle = 6.1
 shape = "italic"
 menu = "italic"
 css = "italic"
