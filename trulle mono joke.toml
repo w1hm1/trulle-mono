@@ -251,7 +251,7 @@ lig-single-arrow-bar = "without-notch"
   inherits = "dlig"
 
 [buildPlans.trulle-mono-joke.weights.regular]
-shape = 250
+shape = 200
 menu = 400
 css = 400
 
@@ -276,7 +276,7 @@ menu = "upright"
 css = "normal"
 
 [buildPlans.trulle-mono-joke.slopes.italic]
-angle = 6.1
+angle = 3.9
 shape = "italic"
 menu = "italic"
 css = "italic"
