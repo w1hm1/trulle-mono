@@ -256,18 +256,18 @@ menu = 400
 css = 400
 
 [buildPlans.trulle-mono-joke.weights.bold]
-shape = 400
+shape = 350
 menu = 700
 css = 700
 
 [buildPlans.trulle-mono-joke.widths.normal]
-shape = 710
+shape = 650
 menu = 5
 css = "normal"
 
 [buildPlans.trulle-mono-joke.metric-override]
 leading = 1150
-sb = "default_sb * 1.520 + 10"
+sb = "default_sb * 1.320 + 3"
 
 [buildPlans.trulle-mono-joke.slopes.upright]
 angle = 0
