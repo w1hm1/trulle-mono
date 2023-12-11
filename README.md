@@ -5,7 +5,7 @@
 
 This font has three variants:
 - **Trulle Mono**:
-  - A font that might work the best in an environment like IDE. It's not that thin but it still has more weight than two other variants in this project.
+  - A font that might work the best in an environment like IDE. It is not as heavy and narrow as the regular variant of the main Iosevka font but it still has more weight and less width than two other variants in this project.
 - **Trulle Mono Ext**:
   - This variant might be your cup of tea if you prefer bigger font sizes or/and if you dig the smoothness and roundness of the typical Swiss sans-serif fonts.
 - **Trulle Mono Joke**:
