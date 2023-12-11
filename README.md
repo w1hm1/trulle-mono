@@ -9,4 +9,4 @@ This font has three variants:
 - **Trulle Mono Ext**:
   - This variant might be your cup of tea if you prefer bigger font sizes or/and if you dig the smoothness and roundness of the typical Swiss sans-serif fonts.
 - **Trulle Mono Joke**:
-  - For whatever reason, there are people who might consider the width of two other variants too narrow – this variant might be suited for needs of those people. You can keep the font size of this variant relatively small without sacrificing the readability.
+  - For whatever reason, there are people who might consider the width of two other variants too narrow – this variant might be suited for needs of those people. You can also keep the font size of this variant relatively small without sacrificing the readability.
