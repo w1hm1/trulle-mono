@@ -2,8 +2,8 @@
 family = "Trulle Mono Joke"
 spacing = "term"
 serifs = "sans"
-no-cv-ss = true
-export-glyph-names = true
+noCvSs = true
+exportGlyphNames = true
 
 [buildPlans.trulle-mono-joke.variants.design]
 capital-a = "straight-serifless"
@@ -251,23 +251,23 @@ lig-single-arrow-bar = "without-notch"
   inherits = "dlig"
 
 [buildPlans.trulle-mono-joke.weights.regular]
-shape = 200
+shape = 100
 menu = 400
 css = 400
 
 [buildPlans.trulle-mono-joke.weights.bold]
-shape = 350
+shape = 300
 menu = 700
 css = 700
 
 [buildPlans.trulle-mono-joke.widths.normal]
-shape = 650
+shape = 710
 menu = 5
 css = "normal"
 
-[buildPlans.trulle-mono-joke.metric-override]
+[buildPlans.trulle-mono-joke.metricOverride]
 leading = 1150
-sb = "default_sb * 1.320 + 3"
+sb = "default_sb * 1.520 + 10"
 
 [buildPlans.trulle-mono-joke.slopes.upright]
 angle = 0
