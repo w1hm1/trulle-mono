@@ -39,7 +39,7 @@ e = "flat-crossbar"
 f = "flat-hook-serifless-crossbar-at-x-height"
 g = "single-storey-earless-rounded"
 h = "straight-serifless"
-i = "serifless"
+i = "serifed-flat-tailed"
 j = "straight-line"
 k = "symmetric-touching-serifless"
 l = "flat-tailed"
@@ -251,12 +251,12 @@ lig-single-arrow-bar = "without-notch"
   inherits = "dlig"
 
 [buildPlans.trulle-mono-joke.weights.regular]
-shape = 100
+shape = 200
 menu = 400
 css = 400
 
 [buildPlans.trulle-mono-joke.weights.bold]
-shape = 300
+shape = 400
 menu = 700
 css = 700
 
