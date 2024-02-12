@@ -267,7 +267,7 @@ css = "normal"
 
 [buildPlans.trulle-mono-rich.metricOverride]
 leading = 1150
-sb = "default_sb * 0.871 + 3"
+sb = "default_sb * 1.054 + 3"
 
 [buildPlans.trulle-mono-rich.slopes.upright]
 angle = 0
@@ -276,7 +276,7 @@ menu = "upright"
 css = "normal"
 
 [buildPlans.trulle-mono-rich.slopes.italic]
-angle = 3.9
+angle = 4.2
 shape = "italic"
 menu = "italic"
 css = "italic"
