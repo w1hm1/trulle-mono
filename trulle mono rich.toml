@@ -39,7 +39,7 @@ e = "flat-crossbar"
 f = "flat-hook-serifless-crossbar-at-x-height"
 g = "single-storey-earless-rounded"
 h = "straight-serifless"
-i = "flat-tailed"
+i = "serifless"
 j = "straight-line"
 k = "symmetric-touching-serifless"
 l = "flat-tailed"
@@ -267,7 +267,6 @@ css = "normal"
 
 [buildPlans.trulle-mono-rich.metricOverride]
 leading = 1150
-sb = "default_sb * 0.949 + 3"
 
 [buildPlans.trulle-mono-rich.slopes.upright]
 angle = 0
