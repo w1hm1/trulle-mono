@@ -267,6 +267,7 @@ css = "normal"
 
 [buildPlans.trulle-mono-rich.metricOverride]
 leading = 1150
+sb = "default_sb * 0.915 + 3"
 
 [buildPlans.trulle-mono-rich.slopes.upright]
 angle = 0
