@@ -12,3 +12,5 @@ This font has three variants:
   - A variation of Trulle Mono Rich with more space between letters.
 - **Trulle Mono Joke**:
   - For whatever reason, there are people who might consider the width of three other variants too narrow – this variant might be suited for needs of those people.
+- **Trulle Mono Shit**:
+  - If you are looking for a radical looking coding font, this one is for you.
