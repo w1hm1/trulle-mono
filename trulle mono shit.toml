@@ -39,11 +39,14 @@ e = "flat-crossbar"
 f = "flat-hook-serifless-crossbar-at-x-height"
 g = "single-storey-earless-rounded"
 h = "straight-serifless"
-i = "serifed-flat-tailed"
+# i = "serifed-flat-tailed"
+# i = "serifed-semi-tailed"
+i = "semi-tailed"
+# i = "hooky"
 #i = "flat-tailed"
 j = "straight-line"
 k = "symmetric-touching-serifless"
-l = "flat-tailed"
+l = "semi-tailed"
 m = "earless-rounded-double-arch-serifless"
 n = "earless-rounded-straight-serifless"
 p = "eared-serifless"
@@ -252,23 +255,26 @@ lig-single-arrow-bar = "without-notch"
   inherits = "dlig"
 
 [buildPlans.trulle-mono-shit.weights.regular]
-shape = 200
+shape = 600
 menu = 400
 css = 400
 
 [buildPlans.trulle-mono-shit.weights.bold]
-shape = 400
+shape = 900
 menu = 700
 css = 700
 
 [buildPlans.trulle-mono-shit.widths.normal]
-shape = 460
+shape = 590
+# shape = 610
+# shape = 660
 menu = 5
 css = "normal"
 
 [buildPlans.trulle-mono-shit.metricOverride]
-leading = 1150
-sb = "default_sb * 1.520 + 10"
+leading = 1050
+sb = "default_sb * 0.9 + 12"
+# sb = "default_sb * 1.520 + 10"
 
 [buildPlans.trulle-mono-shit.slopes.upright]
 angle = 0
