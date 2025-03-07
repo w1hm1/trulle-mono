@@ -32,12 +32,14 @@ capital-x = "straight-serifless"
 capital-y = "straight-serifless"
 capital-z = "straight-serifless"
 a = "double-storey-serifless"
-b = "toothless-rounded-serifless"
+# b = "toothless-rounded-serifless"
+b = "toothed-serifless"
 c = "serifless"
 d = "toothed-serifless"
 e = "flat-crossbar"
 f = "flat-hook-serifless-crossbar-at-x-height"
-g = "single-storey-earless-rounded"
+# g = "single-storey-earless-rounded"
+g = "double-storey"
 h = "straight-serifless"
 # i = "serifed-flat-tailed"
 # i = "serifed-semi-tailed"
@@ -50,7 +52,8 @@ l = "semi-tailed"
 m = "earless-rounded-double-arch-serifless"
 n = "earless-rounded-straight-serifless"
 p = "eared-serifless"
-q = "earless-rounded-straight-serifless"
+# q = "earless-rounded-straight-serifless"
+q = "straight-serifless"
 r = "hookless-serifless"
 s = "serifless"
 t = "flat-hook"
@@ -255,12 +258,12 @@ lig-single-arrow-bar = "without-notch"
   inherits = "dlig"
 
 [buildPlans.trulle-mono-shit.weights.regular]
-shape = 600
+shape = 200 # shape = 600
 menu = 400
 css = 400
 
 [buildPlans.trulle-mono-shit.weights.bold]
-shape = 900
+shape = 700 # shape = 900
 menu = 700
 css = 700
 
@@ -272,7 +275,8 @@ menu = 5
 css = "normal"
 
 [buildPlans.trulle-mono-shit.metricOverride]
-leading = 1050
+leading = 1150
+# leading = 1050
 sb = "default_sb * 0.9 + 12"
 # sb = "default_sb * 1.520 + 10"
 
