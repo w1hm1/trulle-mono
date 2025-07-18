@@ -1,6 +1,0 @@
-(undo-tree-save-format-version . 1)
-"59b7f55c4cf4505740a44512ab6640796d994c75"
-[nil current nil nil (26142 51218 38846 121000) 0 (:visualizer [0 1 0 #<marker at 77 in  *undo-tree*>])]
-([nil nil ((#("serifless" 0 9 (face font-lock-string-face fontified t)) . 1204) (t 26142 50507 140351 399000)) ((1204 . 1213)) (26142 51217 489711 410000) 0 (:visualizer [0 1 0 #<marker at 308 in  *undo-tree*>])])
-([nil nil ((nil rear-nonsticky nil 1214 . 1215) (nil fontified nil 1204 . 1215) (1204 . 1215)) ((#("flat-tailed" 0 10 (face font-lock-string-face fontified nil) 10 11 (face font-lock-string-face rear-nonsticky nil fontified nil)) . 1204) (nil rear-nonsticky t 1214 . 1215) (t 26142 51197 265215 618000)) (26142 51197 261049 125000) 0 (:visualizer [0 1 0 #<marker at 539 in  *undo-tree*>])])
-nil
