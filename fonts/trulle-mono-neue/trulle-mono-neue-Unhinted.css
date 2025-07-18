@@ -1,0 +1,36 @@
+
+@font-face {
+	font-family: 'Trulle Mono Neue Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/trulle-mono-neue-normalregularupright.woff2') format('woff2'), url('TTF-Unhinted/trulle-mono-neue-normalregularupright.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Trulle Mono Neue Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/trulle-mono-neue-normalregularitalic.woff2') format('woff2'), url('TTF-Unhinted/trulle-mono-neue-normalregularitalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Trulle Mono Neue Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/trulle-mono-neue-normalboldupright.woff2') format('woff2'), url('TTF-Unhinted/trulle-mono-neue-normalboldupright.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Trulle Mono Neue Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/trulle-mono-neue-normalbolditalic.woff2') format('woff2'), url('TTF-Unhinted/trulle-mono-neue-normalbolditalic.ttf') format('truetype');
+}
