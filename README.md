@@ -36,3 +36,14 @@ This is the clean, modern, and straightforward option. It has no "feet" (sans-se
 | **Serifs**     | Subtle curves/fluid          | Prominent slab serifs             | Sans-serif (no serifs)                         |
 | **Visual Feel**| Artistic, flowing            | Bold, sturdy, typewriter-like     | Clean, modern, minimalist                      |
 | **Coding Suitability** | Less ideal (subtle curves)   | Good (distinct characters)        | Highly recommended (clean, clear)              |
+
+## Font Samples
+
+### Trulle Mono Neue
+![Trulle Mono Neue Sample](trulle-mono-neue-sample.png)
+
+### Trulle Mono Slab
+![Trulle Mono Slab Sample](trulle-mono-slab-sample.png)
+
+### Trulle Mono Snake
+![Trulle Mono Snake Sample](trulle-mono-snake-sample.png)
