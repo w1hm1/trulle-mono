@@ -1,0 +1,167 @@
+[buildPlans.trulle-mono-streamlined]
+family = "Trulle Mono Streamlined"
+spacing = "term"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = true
+
+# ==========================================
+# UPRIGHT VARIANTS (Pystyjen merkkien muodot)
+# ==========================================
+[buildPlans.trulle-mono-streamlined.variants.design]
+capital-a = "straight-serifless"
+capital-b = "standard-serifless"
+capital-c = "serifless"
+capital-d = "more-rounded-serifless"
+capital-e = "serifless"
+capital-f = "serifless"
+capital-g = "toothless-rounded-serifless-hooked"
+capital-h = "serifless"
+capital-i = "serifless"
+capital-j = "serifless"
+capital-k = "symmetric-touching-serifless"
+capital-l = "serifless"
+capital-m = "hanging-serifless"
+capital-n = "standard-serifless"
+capital-p = "closed-serifless"
+capital-q = "vertical-crossing"
+capital-r = "straight-serifless"
+capital-s = "serifless"
+capital-t = "serifless"
+capital-u = "toothless-rounded-serifless"
+capital-v = "straight-serifless"
+capital-w = "straight-asymmetric-serifless"
+capital-x = "straight-serifless"
+capital-y = "straight-serifless"
+capital-z = "straight-serifless"
+
+# Pienet kirjaimet (Upright)
+a = "double-storey-serifless"
+b = "toothless-rounded-serifless"
+c = "serifless"
+d = "toothless-rounded-serifless"
+e = "flat-crossbar"
+f = "flat-hook-serifless-crossbar-at-x-height"
+g = "single-storey-earless-rounded"
+h = "straight-serifless"
+i = "serifless"
+j = "straight-line"
+k = "symmetric-touching-serifless"
+l = "flat-tailed"
+m = "earless-rounded-double-arch-serifless"
+n = "earless-rounded-straight-serifless"
+p = "earless-rounded-serifless"
+q = "earless-rounded-straight-serifless"
+r = "hookless-serifless"
+s = "serifless"
+t = "flat-hook"
+u = "toothless-rounded-serifless"
+v = "straight-serifless"
+w = "straight-asymmetric-serifless"
+x = "straight-serifless"
+y = "straight-serifless"
+z = "straight-serifless"
+
+# Numerot ja erikoismerkit (Täydelliset Clojure/LaTeX/Fish -työskentelyyn)
+zero = "tall-slashed"
+one = "no-base"
+two = "straight-neck-serifless"
+three = "two-arcs"
+four = "semi-open-non-crossing-serifless"
+five = "upright-flat-serifless"
+six = "closed-contour"
+seven = "straight-serifless"
+eight = "crossing"
+nine = "closed-contour"
+
+diacritic-dot = "round"
+punctuation-dot = "round"
+tilde = "high"
+asterisk = "hex-high"
+underscore = "low"
+caret = "high"
+paren = "large-contour"
+brace = "straight"
+guillemet = "straight"
+number-sign = "upright-open"
+ampersand = "closed"
+at = "fourfold-solid-inner"
+dollar = "open-cap"
+percent = "rings-continuous-slash"
+bar = "natural-slope"
+ascii-single-quote = "straight"
+ascii-grave = "straight"
+question = "corner"
+cent = "open"
+partial-derivative = "straight-bar"
+micro-sign = "toothless-rounded-serifless"
+
+lig-ltgteq = "slanted"
+lig-equal-chain = "without-notch"
+lig-hyphen-chain = "without-notch"
+lig-double-arrow-bar = "without-notch"
+lig-single-arrow-bar = "without-notch"
+
+
+# ==========================================
+# ITALIC VARIANTS (Kursiivin omat muodot)
+# ==========================================
+
+[buildPlans.trulle-mono-streamlined.variants.italic]
+f = "flat-hook-extended-crossbar-at-half-ascender-height"
+j = "narrow-serifless"
+a = "single-storey-serifless"
+i = "flat-tailed"         # Korvattu 'cursive-serifless' olemassa olevalla muotoilulla
+l = "tailed"              # Korvattu 'cursive-serifless' pyöreämmällä hännällä
+y = "cursive-serifless"   # Tämä on validi, koska y-kirjaimelle tämä muoto löytyy
+
+# ==========================================
+# LIGATUURIT, PAKSUUDET JA MITAT
+# ==========================================
+[buildPlans.trulle-mono-streamlined.ligations]
+inherits = "default-calt"  # <-- MUUTETTU: Takaa Clojuren nuolten ja operaattorien toimivuuden out-of-the-box
+
+[buildPlans.trulle-mono-streamlined.weights.regular]
+shape = 300
+menu = 400
+css = 400
+
+[buildPlans.trulle-mono-streamlined.weights.bold]
+shape = 600
+menu = 700
+css = 700
+
+# [buildPlans.trulle-mono-streamlined.widths.normal]
+# shape = 680
+# menu = 5
+# css = "normal"
+
+# [buildPlans.trulle-mono-streamlined.metricOverride]
+# leading = 1150
+# sb = "default_sb * 1.6 + 20"
+
+# Leveys (Laskettu 680 -> 640. Antaa tilaa pyöreydelle tekemättä kirjaimista litteitä)
+[buildPlans.trulle-mono-streamlined.widths.normal]
+shape = 640
+menu = 5
+css = "normal"
+
+[buildPlans.trulle-mono-streamlined.metricOverride]
+leading = 1150
+sb = "default_sb * 1.0 + 12"
+#sb = "default_sb * 1.6 + 20"
+
+# ==========================================
+# KALLISTUSKULMAT (Slopes)
+# ==========================================
+[buildPlans.trulle-mono-streamlined.slopes.upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.trulle-mono-streamlined.slopes.italic]
+angle = 3.5
+shape = "italic"
+menu = "italic"
+css = "italic"
