@@ -35,7 +35,7 @@ This is the clean, modern, and straightforward option. It has no "feet" (sans-se
 This variant is the epitome of typographical efficiency. It features an extremely clean, "pipe-like" design where unnecessary hooks and serifs have been completely removed (like the perfectly straight 'i' and 'j'), paired with highly organic, rounded vowels ('e', 'a'). It boasts a slightly wider character shape and generous sidebearings.
 
 *   **Who should use it:** Ideal for terminal power users, Lisp (Clojure) developers, and LaTeX writers. The deep contour brackets and high-placed symbols (like tilde and caret) make complex syntax highly readable.
-*   **Font Size/Resolution:** Exceptional at smaller sizes. Because of the generous tracking and balanced character width, you can comfortably drop the font size (e.g., to 12.5px) without losing any legibility or feeling cramped.
+*   **Font Size/Resolution:** Exceptional at smaller sizes. Because of the generous tracking and balanced character width, you can comfortably drop the font size (e.g., to 11px) without losing any legibility or feeling cramped.
 *   **For Coding?** Absolute top tier. The minimal visual clutter allows for long, focused coding sessions. The italic variant is also heavily customized with cursive forms to provide a beautiful, distinct contrast for code comments and keywords.
 
 ## Comparison of Trulle Mono Variants
