@@ -81,7 +81,7 @@ asterisk = "hex-high"
 underscore = "low"
 caret = "high"
 paren = "large-contour"
-brace = "straight"
+brace = "curly-flat-boundary"
 guillemet = "straight"
 number-sign = "upright-open"
 ampersand = "closed"
@@ -114,6 +114,7 @@ a = "single-storey-serifless"
 i = "flat-tailed"         # Korvattu 'cursive-serifless' olemassa olevalla muotoilulla
 l = "tailed"              # Korvattu 'cursive-serifless' pyöreämmällä hännällä
 y = "cursive-serifless"   # Tämä on validi, koska y-kirjaimelle tämä muoto löytyy
+brace = "straight"
 
 # ==========================================
 # LIGATUURIT, PAKSUUDET JA MITAT
