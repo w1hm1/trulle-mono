@@ -143,7 +143,7 @@ css = 700
 
 # Leveys (Laskettu 680 -> 640. Antaa tilaa pyöreydelle tekemättä kirjaimista litteitä)
 [buildPlans.trulle-mono-streamlined-narrow.widths.normal]
-shape = 580
+shape = 500 #shape = 580
 menu = 5
 css = "normal"
 
