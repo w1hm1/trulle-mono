@@ -123,12 +123,12 @@ brace = "straight"
 inherits = "default-calt"  # <-- MUUTETTU: Takaa Clojuren nuolten ja operaattorien toimivuuden out-of-the-box
 
 [buildPlans.trulle-mono-streamlined-narrow.weights.regular]
-shape = 300
+shape = 200
 menu = 400
 css = 400
 
 [buildPlans.trulle-mono-streamlined-narrow.weights.bold]
-shape = 600
+shape = 300
 menu = 700
 css = 700
 
@@ -149,7 +149,8 @@ css = "normal"
 
 [buildPlans.trulle-mono-streamlined-narrow.metricOverride]
 leading = 1150
-sb = "default_sb * 1.1 + 14"
+sb = "default_sb * 1.3 + 17"
+#sb = "default_sb * 1.1 + 14"
 #sb = "default_sb * 1.0 + 12"
 #sb = "default_sb * 1.6 + 20"
 
