@@ -19,10 +19,10 @@ you actually read. Both ship in Regular, Bold, Italic and Bold Italic, use
 | Character         | Sans-serif                                     | Serifed uprights, serifless italics             |
 | Best for          | Code, terminals, dense listings                | Documentation, prose, LaTeX                     |
 | Serif strategy    | Serifs only where they disambiguate (`I`, `J`) | Serifs throughout, including `B C D S`          |
-| Lowercase `i` `l` | Semi-tailed                                    | Z-shaped                                        |
+| Lowercase `i` `l` | Semi-tailed                                    | Serifed, asymmetric                             |
 | Lowercase `a`     | Double-storey, flat bottom                     | Double-storey, inward-hooked                    |
 | Weight (stem)     | 250 / 400                                      | 200 / 300                                       |
-| Width             | 590                                            | 570                                             |
+| Width             | 590                                            | 630                                             |
 | Letter spacing    | Tight                                          | Airy                                            |
 | Italic angle      | 4.2°                                           | 3.9°                                            |
 
@@ -38,37 +38,39 @@ without shouting.
 
 ## Samples
 
-All samples below are rendered from the shipped TTFs with HarfBuzz, so
-ligatures and spacing appear exactly as they do on screen.
+All samples below are rendered from the shipped TTFs with HarfBuzz and
+FreeType at 16 pt on a 2× (Retina) pixel grid, unhinted and with
+gamma-correct blending — so ligatures, spacing and stroke weight appear as
+they do on a high-density screen.
 
 ### Legibility
 
 The pairs that matter: `il1I`, `0OD8B`, `rn` vs `m`, `cl` vs `d`.
 
-![Legibility test matrix](.samples/01-legibility.png)
+<img src=".samples/01-legibility.png" width="508" alt="Legibility test matrix">
 
 ### Code — Cornered
 
 JavaScript, Rust, HTML and Clojure, with contextual ligatures active.
 
-![Code sample in Trulle Mono Cornered](.samples/02-code-cornered.png)
+<img src=".samples/02-code-cornered.png" width="533" alt="Code sample in Trulle Mono Cornered">
 
 ### LaTeX and mathematics — Slab
 
 Greek, mathematical operators and typesetting markup.
 
-![LaTeX and mathematics sample in Trulle Mono Slab](.samples/03-latex-slab.png)
+<img src=".samples/03-latex-slab.png" width="778" alt="LaTeX and mathematics sample in Trulle Mono Slab">
 
 ### Multilingual
 
 English, Swedish, German and French — diacritics, ligatures and quotation
 marks.
 
-![Multilingual samples](.samples/04-languages.png)
+<img src=".samples/04-languages.png" width="658" alt="Multilingual samples">
 
 ### Styles
 
-![Regular, Bold, Italic and Bold Italic in both families](.samples/05-styles.png)
+<img src=".samples/05-styles.png" width="648" alt="Regular, Bold, Italic and Bold Italic in both families">
 
 ---
 
